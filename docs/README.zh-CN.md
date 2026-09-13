@@ -208,6 +208,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-attachment-vision](https://github.com/endlass/dsh-attachment-vision) — GUI 附件图片自动转写为本地路径，并提供连接任意 OpenAI 兼容视觉模型的 view_image 桥接——为纯文本 DeepSeek 模型提供端到端视觉能力。
 
+- [dsh-code-poem](https://github.com/weibaohui/dsh-code-poem) — 代码如诗：4598 条古诗词、成语、龙文鞭影典故随机成笺，随会话事件自动浮现（回合结束/工具报错时送你一句），可 ❤ 收藏、展开看释义与故事，宣纸墨色的阅读卡片。
+
 - [dsh-emoji](https://github.com/hellodigua/dsh-emoji) — 为 DeepSeek Harness 中的 AI 回复自动添加表情符号。
 
 - [dsh-vision](https://github.com/william-jin-cmu/dsh-vision) — 为纯文本 DeepSeek 模型提供连接 OpenAI 兼容视觉语言模型的 view_image 桥接能力。

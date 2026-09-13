@@ -196,6 +196,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) — Adds image Q&A, long-screenshot OCR, UI restoration, visual grounding, pixel diffs, and artifacts.
 
 - [dsh-vision-tools](https://github.com/moon09300731/dsh-vision-tools) — A vision toolkit that bridges text-only DeepSeek models to OpenAI-compatible vision APIs.
+- [dsh-code-poem](https://github.com/weibaohui/dsh-code-poem) — Code poetry: surfaces one of 4,598 classical Chinese poems, idioms or allusions as a reading card at session events (after each turn, or when a tool errors), with favorites and expandable annotations and backstories, styled as an ink-wash paper card.
+
 
 ### Business, finance & commerce
 
